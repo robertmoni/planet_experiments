@@ -1,0 +1,20 @@
+MuJoCo Pro Trial license activation key, number 136585, type 6.
+
+Issued to Robert Moni <robertmoni@tmit.bme.hu>.
+
+Expires June 16, 2019.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_EAG6OSmNDD85a_V002S3Bsg118uSC540FS9nS157
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+3781d55bca2fce638bf27935430e2b1b0ef951d23cbb1e9c071b6db4c5ceb269
+25cbc5f5e1c37fb1e0a453c776803ef5ba24b111e427f04c8310e2357e44bc9b
+58bfc785c566c2ad5a0489f28f7c6064877a9f9fef58b471941dcb82d8832812
+c7f3599ad845a7e4ce4852b01d6ac0e45795dcd701d5ad4a8ca7479bcdd719d1
+6e5355489bd876eab82fe9b233871e6fc503c8d1f1370a93604a3aeeabf955fb
+ac423ed70fe64d8498815e4c27c563d249a18138a92785b0297274857dc48e17
+7ba757ddfdf8b8df021342a1c56c8d7a6e4856df40e3e57261ca8f52cb4607f1
+ba7104b1b24bb380821943363d9aa5b4dba6aab75abfce88389a422b4733ad72
